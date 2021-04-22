@@ -1,1 +1,10 @@
 B22 Larning Git
+
+yay we made first commit
+Comit is almost like teking 
+apicture of the changes
+at certain moment compared 
+to previos moment
+
+it contains the changes you made 
+and the author of the changes
